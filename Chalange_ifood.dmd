@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Chalange_ifood" id="B5C34AA1-50F4-7173-3442-9C3378E5487E" version="3.5">
+<createdBy>Nayara</createdBy>
+<createdTime>2022-06-03 15:45:00 UTC</createdTime>
+<ownerDesignName>Trabalho_ifood</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B5C34AA1-50F4-7173-3442-9C3378E5487E</designId>
+</OSDM_Design>
